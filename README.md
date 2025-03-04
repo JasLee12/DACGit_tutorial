@@ -1,5 +1,5 @@
 # DAC Dacademy
-Dacademy was a program taught by the Data Analysis Club EXCO members. I attended the program in 2022 and taught the new batch of members in 2023. 
+Dacademy was a program taught by the Data Analysis Club EXCO members. I attended the program in 2021 and taught the new batch of members in 2022. 
 
 ## Introduction
 Hi! This repository was created as part of DAC's Git tutorial, as seen from its name. But I decided to put the other tutorials from Dacademy in as well. The materials that I used to teach my sessions will also be in this repository under folder name 2023.
